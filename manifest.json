@@ -3,8 +3,7 @@
     "name": "Dark Mode Wizard",  
     "version": "1.0",  
     "description": "Toggle dark mode on websites that don’t support it natively.",  
-    "permissions": [
-      "activeTab",  
+    "permissions": [  
       "storage"  
     ],
     "action": {
